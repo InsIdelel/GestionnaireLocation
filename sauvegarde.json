@@ -1,0 +1,20 @@
+[
+    {
+        "nom": "Renault Clio",
+        "photo": "clio.jpg",
+        "stock": 10,
+        "en_location": 3
+    },
+    {
+        "nom": "Peugeot 208",
+        "photo": "208.jpg",
+        "stock": 8,
+        "en_location": 1
+    },
+    {
+        "nom": "Citro\u00c3\u00abn DS4",
+        "photo": "DS4.jpeg",
+        "stock": 8,
+        "en_location": 2
+    }
+]
